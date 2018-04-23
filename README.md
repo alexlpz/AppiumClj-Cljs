@@ -1,6 +1,10 @@
 # cljs-101
 
-A Clojure library designed to ... well, that part is up to you.
+
+Para correr el proyecto necesita elejucar los siguientes comandos ...
+# lein ring server
+# lein figwheel
+Y entrar a localhost:3449
 
 ## Usage
 
